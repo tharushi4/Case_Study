@@ -11,9 +11,8 @@ To evaluate the system performance under different levels of user load (Low, Med
 ## Requirements
 
 Before running the simulation, make sure you have:
-
 - **Python 3.8+**
-- Create and activate a virtual environment:
+  Create and activate a virtual environment:
 -  ```bash
    python -m venv venv
   Windows
