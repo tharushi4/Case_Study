@@ -16,10 +16,10 @@ Before running the simulation, make sure you have:
 - Create and activate a virtual environment:
 -  ```bash
    python -m venv venv
-- Windows
+  Windows
 - ```bash
   venv\Scripts\activate
-- macOS / Linux
+  macOS / Linux
 - ```bash
   source venv/bin/activate
 - Required libraries:
