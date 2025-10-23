@@ -8,7 +8,7 @@ It models how users (customers) arrive, wait, and are served by the system’s s
 ## Objective
 To evaluate the system performance under different levels of user load (Low, Medium, High, Peak) using queue simulation techniques.
 
-## ⚙️ Requirements
+## Requirements
 
 Before running the simulation, make sure you have:
 
