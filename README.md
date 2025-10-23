@@ -19,7 +19,7 @@ Before running the simulation, make sure you have:
   Windows
 - ```bash
   venv\Scripts\activate
-  macOS / Linux
+ macOS / Linux
 - ```bash
   source venv/bin/activate
 - Required libraries:
