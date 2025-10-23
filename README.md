@@ -27,3 +27,7 @@ Before running the simulation, make sure you have:
 - Required libraries:
   ```bash
   pip install simpy numpy matplotlib
+- Create a file bank_simulation.py and save it.
+- Run the simulation
+- ```bash
+  python bank_simulation.py
