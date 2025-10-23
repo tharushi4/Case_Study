@@ -13,6 +13,15 @@ To evaluate the system performance under different levels of user load (Low, Med
 Before running the simulation, make sure you have:
 
 - **Python 3.8+**
+- Create and activate a virtual environment:
+-  ```bash
+   python -m venv venv
+- Windows
+- ```bash
+  venv\Scripts\activate
+- macOS / Linux
+- ```bash
+  source venv/bin/activate
 - Required libraries:
   ```bash
   pip install simpy numpy matplotlib
